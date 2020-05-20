@@ -1,3 +1,3 @@
 # Kelime-Bul
  
- Android Studio kelime oyunu 
+ Verilen harflerden anlamlı türkçe kelime üretme oyunu. Android Studio projesi
