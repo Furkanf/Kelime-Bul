@@ -1,0 +1,19 @@
+<resources>
+    <string name="button1">Seviye 1</string>
+    <string name="button2">Seviye 2</string>
+    <string name="button3">Seviye 3</string>
+    <string name="textView">Kelime Seçmece</string>
+    <string name="app_name">Kelime Seçmece</string>
+
+    <string name="seviye11">LEVEL 1</string>
+    <string name="seviye12">LEVEL 2</string>
+    <string name="seviye13">LEVEL 3</string>
+    <string name="seviye14">LEVEL 4</string>
+    <string name="seviye15">LEVEL 5</string>
+    <string name="seviye16">LEVEL 6</string>
+    <string name="kaydet">KAYDET</string>
+
+
+    <string name="yuksekPuan">Yüksek Puanlar</string>
+
+</resources>
